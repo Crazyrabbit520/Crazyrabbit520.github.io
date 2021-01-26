@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+＃小可爱，这是我自己写的博客，这样就方便小可爱看我写的小日记
 
-You can use the [editor on GitHub](https://github.com/Crazyrabbit520/Crazyrabbit520.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<font color="pink">&hearts;&hearts;这是我第一次使用这个平台哟，让小可爱见笑了</font>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Crazyrabbit520/Crazyrabbit520.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+时间：一月二十二号【这是我从我的obsidian里迁移过来的哟！】
+>写下关于小可爱的记忆，总是那么的开心呀，很喜欢小可爱的零食。你这小家伙，我喜欢的零食，你倒是这样疯狂的买，我可要把长的肉都算在小可爱头上呀。小可爱呀，比起零食呀、巧克力什么的呀，小可爱才是我最最最>看重的，想念小可爱的时候，零食可不抵呀，偶尔看看小可爱照片倒还是能些须缓解思慕情呀。

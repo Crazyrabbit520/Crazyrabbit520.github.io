@@ -35,7 +35,7 @@
 ----
 
 
-<p>鲜度：<font color="pink">&hearts;&hearts;&hearts;&hearts;&hearts;<font></p>
+鲜度：<font color="pink">&hearts;&hearts;&hearts;&hearts;&hearts;<font>
 
 
 

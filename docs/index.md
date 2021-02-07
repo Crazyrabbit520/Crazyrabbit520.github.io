@@ -79,5 +79,11 @@
 DATE:2.7.21
 
 
+<font color="red">&hearts;&hearts;&hearts;&hearts;&hearts;</font>
+
+
+
+>最开心的，我与小可爱期待着都是一样的，期待着我们的不久之后的样子。只是长长的守候最为寂寞，守候之后，再难夺舍……
+
 
 #### [接下来的故事](./yiyi.md)
